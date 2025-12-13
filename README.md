@@ -30,3 +30,6 @@ Este proyecto es un **visualizador de audio en 3D** desarrollado con **Three.js*
 - GLSL Shaders – Efectos visuales de glow, pulsos y deformaciones de geometría.
 
 ---
+
+## 🔗 Enlace CodeSandbox
+[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/Visualizador_de_musica/draft/vigilant-violet)
