@@ -32,4 +32,4 @@ Este proyecto es un **visualizador de audio en 3D** desarrollado con **Three.js*
 ---
 
 ## 🔗 Enlace CodeSandbox
-[Ir a CodeSandbox](https://codesandbox.io/p/github/ZuliiHdez/Visualizador_de_musica/draft/vigilant-violet)
+[Ir a CodeSandbox](https://codesandbox.io/p/sandbox/visualizador-de-musica-6wvv6f)
